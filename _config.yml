@@ -19,13 +19,13 @@ description: > # "
   Miju E. Han is a data scientist and artist based in San Francisco, CA.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.lucasgatsas.ch" # the base hostname & protocol for your site
+url: "http://miju.co" # the base hostname & protocol for your site
 
 #These settings might be able to go?
 author: Miju E. Han
 twitter_username: mijuhan
 github_username:  mijuhan
-company_name: lucasgatsas
+company_name: GitHub
 
 # Build settings
 markdown: kramdown
