@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://miju.co" # the base hostname & protocol for your site
 
 #These settings might be able to go?
-author: Miju E. Han
+author: Miju
 twitter_username: mijuhan
 github_username:  mijuhan
 company_name: GitHub
